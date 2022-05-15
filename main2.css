@@ -1,0 +1,38 @@
+.container{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    height: 84vh;
+}
+.left,.right {
+    width: 40%;
+    height: 84vh;
+    
+}
+.box1 {
+    margin: 5vh;
+}
+.box3 {
+    padding: 5vh 2vh;
+}
+.box2 {
+    margin-top: 25vh;
+    margin-left: 2.5vh;
+}
+.O {
+    margin-right: 5vh;
+}
+
+.H {
+    margin-left: 1vh;
+}
+.M {
+    margin-left: 0.7vh
+}
+.E {
+    margin-left: 0.95vh;
+}
+.O {
+    margin-left: 0.95vh;
+}
